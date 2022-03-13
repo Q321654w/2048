@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01522be7d259d864a9e0bcf44cd436bf, type: 3}
+  m_Name: Combiner Data
+  m_EditorClassIdentifier: 
+  _numberGenerator: {fileID: 11400000, guid: 0056e482e337fad45a7367fed1c72594, type: 2}
+  _colors: {fileID: 11400000, guid: 1fed7fd0efd9c3847a177fd39910bead, type: 2}
+  _pushUpForce: 8
+  _combineDuration: 0.25
